@@ -5,9 +5,12 @@ This paper was accepted for the Workshop BUCC2021 in the conference RANLP 2021.
 ## Abstract
 
 ## Requirements
-This research was developed using Python 3.8.0. Below, the library requirements are listed to assure the experiments reproducity.
+This research was developed using Python 3.8.0. Below, the library requirements are listed to assure the experiments reproducibility.
 
-
+| Resource | Version/URL |
+| ------------- | ------------- |
+| tensorflow | 2.4.1 |
+| sentencepiece | Content Cell |
 
 
 

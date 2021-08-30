@@ -9,12 +9,15 @@ This research was developed using Python 3.8.0. Below, the library requirements 
 
 | Resource | Version/URL |
 | ------------- | ------------- |
-| tensorflow | 2.4.1 |
-| sentencepiece | Content Cell |
-
-
-
-
+| Tensorflow | 2.4.1 |
+| Numpy | 1.19.5 |
+| Spacy | 3.0.5 |
+| NLTK | 3.5 |
+| SentencePiece | [LINK](https://github.com/google/sentencepiece) |
+| PyTer | [LINK](https://github.com/BramVanroy/pyter) |
+| ROUGE | [LINK](https://github.com/google/seq2seq/blob/master/seq2seq/metrics/rouge.py) |
+| SacreBLEU | [LINK](https://github.com/mjpost/sacrebleu) |
+ 
 ## Citation
 
 

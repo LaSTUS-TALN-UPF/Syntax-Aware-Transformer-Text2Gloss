@@ -23,6 +23,7 @@ This research was developed using Python 3.8.0. Below, the library requirements 
  
 ## Citation
 
+Bib text:
 
 @inproceedings{egea-gomez-etal-2021-syntax,
 

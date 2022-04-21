@@ -24,6 +24,7 @@ This research was developed using Python 3.8.0. Below, the library requirements 
 ## Citation
 
 @inproceedings{egea-gomez-etal-2021-syntax,
+
     title = "Syntax-aware Transformers for Neural Machine Translation: The Case of Text to Sign Gloss Translation",
     author = "Egea G{\'o}mez, Santiago  and
       McGill, Euan  and
